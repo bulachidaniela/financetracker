@@ -70,7 +70,3 @@ An interactive [Streamlit](https://streamlit.io/) app for managing your personal
 
 4. Open the URL shown in the terminal (default: `http://localhost:8501`).
 
-
-
-Do you want me to prepare that modular version next?
-```
